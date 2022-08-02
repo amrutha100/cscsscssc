@@ -1,0 +1,23 @@
+week 1 success and failure stories
+1. careix
+1. Carerix: providing state-of-art software for corporate and personnel intermediaries
+carerix logoCarerix is a Netherlands-based market leader in the field of staffing and recruitment software solutions. The company was recently acquired by European workforce management solutions provider PIXID.
+
+Carerix supplies innovative Customer Relationship Management (CRM) and Applicant Tracking Systems to more than 700 enterprise and mid-level businesses worldwide. Their smart web-based software features all the necessary functionality for vacancy posting, candidate sourcing, matching, and invoicing. Moreover, the solution can be integrated with various third-party technologies and networks (e.g. LinkedIn), allowing the users to keep all their recruitment and staffing activities in a single space.
+Daxx has worked with Carerix since 2012, contributing to its enterprise software development, UX design, and QA activities. During that time, the company's monthly recurring revenue has more than doubled along with the number of subscribers to the Carerix service. Currently, Carerix software serves more than 650 customers and 10,000 users on a day to day basis.
+
+When the company started, its annual growth was 5% whereas now it reaches 30%. The key to Carerix success is its focus on high quality and in-depth process knowledge, which made companies such as Randstad, Manpower, and Adecco choose their solution to support their core processes.
+
+2.   success stories of  software:
+
+ Auth0: securing and managing the authentication process
+Auth0 logoAuth0 is a US-based startup specializing in Identity-as-a-Service (IDaaS) for the enterprise. The company's key product is a Universal Identity Platform for web, mobile, IoT, and internal applications. It authenticates and secures around 42 million logins per day. Auth0 provides 24/7 customer support and makes sure its platform is resilient to failures and the users never experience any downtime.
+
+The company's applications have built-in rate limiting and automated blocking features to mitigate authentication attacks. Moreover, all passwords are hashed (and salted) securely using bcrypt.
+
+Auth0 has over 2,000 customers in its track record including PBS, HarperCollins, AMD, AeroMexico. Over the past 5 years on the market, the company has managed to receive $54.3 mln in total funding.
+
+
+
+
+
